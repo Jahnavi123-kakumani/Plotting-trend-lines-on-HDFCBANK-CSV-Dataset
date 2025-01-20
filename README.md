@@ -92,15 +92,3 @@ plt.savefig('hdfcbank_trend_line.png')
 The output graph will show:
 1. The actual **Close Price** over time.
 2. A **trend line** indicating the overall price trend.
-
----
-
-## Contributing
-Feel free to contribute by:
-- Adding more trend analysis methods (e.g., polynomial regression).
-- Visualizing other columns like **Volume** or **High/Low** prices.
-
----
-
-## License
-This project is licensed under the MIT License.
