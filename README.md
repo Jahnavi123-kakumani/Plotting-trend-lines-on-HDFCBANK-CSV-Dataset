@@ -1,4 +1,4 @@
-##Plotting-trend-lines-on-HDFCBANK-CSV-Dataset
+## Plotting-trend-lines-on-HDFCBANK-CSV-Dataset
 
 ## Overview
 This repository contains the **HDFCBANK dataset**, which includes historical data for HDFC Bank's stock performance. The purpose of this project is to analyze the data and plot trend lines to understand key trends and patterns.
